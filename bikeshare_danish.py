@@ -237,7 +237,7 @@ def user_stats(df):
         print("There are no birth year columns in the selected data.")
 
     print(f"\nThis took {(time.time() - start_time)} seconds.")
-    print('-'*90)
+    print('*'*100)
 
 
 def main():
