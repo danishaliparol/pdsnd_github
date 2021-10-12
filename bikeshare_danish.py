@@ -204,7 +204,7 @@ def trip_duration_stats(df):
         print(f"\nAverage trip duration is {avg_min} minutes and {avg_sec} seconds")
 
 
-    print("\nThis took %s seconds." % (time.time() - start_time))
+    print(f"\nThis took {(time.time() - start_time)} seconds.")
     print('-'*90)
 
 
