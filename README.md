@@ -2,9 +2,9 @@
 10-12-2021
 
 ## Bikeshare project for Udacity python project
-This project is for the completion of python part (1 out of 3 ) of Udacity programming for data science nanodegree program
+This project is for the completion of python part (1 out of 3 ) of Udacity programming for data science nanodegree.
 
-#### Asks following input/choice from the user
+#### Asks following inputs/choices from the user
 - Which city to analyze out of three? (Chicago, New York city, Washington)
 - Which month to analyze? (January to June, All)
 - Which day of week to be analyzed? (Monday to Sunday, All)
@@ -29,7 +29,7 @@ This project is for the completion of python part (1 out of 3 ) of Udacity progr
 
 ### Acknowledgements:
 1. https://stackoverflow.com/ - I referred following three for this project.
-* https://stackoverflow.com/questions/30222533/create-a-day-of-week-column-in-a-pandas-dataframe-using-python
-* https://stackoverflow.com/questions/44023361/concatenate-two-columns-in-pandas-dataframe
-* https://stackoverflow.com/questions/775049/how-do-i-convert-seconds-to-hours-minutes-and-seconds
+   * https://stackoverflow.com/questions/30222533/create-a-day-of-week-column-in-a-pandas-dataframe-using-python
+   * https://stackoverflow.com/questions/44023361/concatenate-two-columns-in-pandas-dataframe
+   * https://stackoverflow.com/questions/775049/how-do-i-convert-seconds-to-hours-minutes-and-seconds
 2. https://www.udacity.com/ - Udacity programming for data science nanodegree program course contents were extremely helpful
